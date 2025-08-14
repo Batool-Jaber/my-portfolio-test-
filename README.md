@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+## **Note**: This portfolio is for demonstration purposes only – all information provided is not real.
+
+## 📸 Project Output
+
+### 🔹 Home page
+<img src="output images/Home Page.png" width="800">
+
+---
+
+### 🔹 About Page
+<img src="output images/About Page.png" width="800">
+
+---
+
+### 🔹 Contact Page
+<img src="output images/Contact Page.png" width="800">
+
+
+<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
